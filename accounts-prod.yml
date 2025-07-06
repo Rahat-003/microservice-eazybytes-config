@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related produdction APIs"
 
   contactDetails:
-    name: "David Warner - Product Manager"
+    name: "Tamim Iqbal - Product Manager"
     email: "{cipher}1b8f8d2393c741665432a25f35530c57d3a6478862f10a3a09ea9e4e118dd06d319fd370d28b2445ee952c1490c8058a"
 
   onCallSupport:
