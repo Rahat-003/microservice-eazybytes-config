@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related prod APIs"
 
   contactDetails:
-    name: "David Warner - Product Specialist"
+    name: "David Warner - Product Manager"
     email: "warner@eazybank.com"
 
   onCallSupport:
