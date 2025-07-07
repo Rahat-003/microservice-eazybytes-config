@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to EazyBank cards related prod APIs"
   contactDetails:
-    name: "David Warner - Product Specialist"
+    name: "David Putin - Product Specialist"
     email: "warner@eazybank.com"
   onCallSupport:
     - "(777) 555-1234"
