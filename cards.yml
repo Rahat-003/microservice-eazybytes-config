@@ -6,7 +6,7 @@ cards:
   message: "Welcome to webhook testing"
 
   contactDetails:
-    name: "John Doe - Developer"
+    name: "John Doe - Software Developer"
     email: "john@eazybank.com"
 
   onCallSupport:
