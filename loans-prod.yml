@@ -2,10 +2,11 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to EazyBank loans related prod APIs"
+  # message: "Welcome to EazyBank loans related prod APIs"
+  message: "Welcome to webhook testing"
 
   contactDetails:
-    name: "David Putin - Product Specialist"
+    name: "David Warner - Product Specialist"
     email: "warner@eazybank.com"
 
   onCallSupport:
