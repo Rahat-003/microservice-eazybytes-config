@@ -2,8 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  # message: "Welcome to EazyBank cards related local APIs"
-  message: "Welcome to webhook testing"
+  message: "Welcome to EazyBank cards related local APIs"
 
   contactDetails:
     name: "John Doe - Software Developer"

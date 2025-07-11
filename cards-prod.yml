@@ -2,8 +2,8 @@ build:
   version: "1.0"
 
 cards:
-  # message: "Welcome to EazyBank cards related prod APIs"
-  message: "Welcome to webhook testing cards"
+  message: "Welcome to EazyBank cards related prod APIs"
+  # message: "Welcome to webhook testing cards"
 
   contactDetails:
     name: "David Warner - Product Specialist"
