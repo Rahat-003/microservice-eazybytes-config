@@ -3,7 +3,7 @@ build:
 
 cards:
   # message: "Welcome to EazyBank cards related prod APIs"
-  message: "Welcome to webhook testing cards using docker"
+  message: "Welcome to webhook testing cards using docker."
 
   contactDetails:
     name: "David Warner - Product Specialist"
