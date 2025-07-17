@@ -3,8 +3,7 @@ build:
 
 accounts:
   # message: "Welcome to EazyBank accounts related prod APIs using docker compose"
-  # message: "Welcome to webhook testing accounts using docker-compose for prod."
-  message: "Hello world"
+  message: "Welcome to webhook testing accounts using docker-compose for prod."
 
   contactDetails:
     name: "David Warner - Product Manager"
