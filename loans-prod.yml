@@ -3,7 +3,7 @@ build:
 
 loans:
   # message: "Welcome to EazyBank loans related prod APIs"
-  message: "Welcome to webhook testing loans using docker."
+  message: "Welcome to webhook testing loans using docker-compose for prod."
 
   contactDetails:
     name: "David Warner - Product Specialist"
